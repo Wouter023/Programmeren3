@@ -1,0 +1,17 @@
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.deps.json
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\bin\Debug\net6.0\ReservationSystemService.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\bin\Debug\net6.0\DAL.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\bin\Debug\net6.0\Model.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\bin\Debug\net6.0\DAL.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\bin\Debug\net6.0\Model.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.AssemblyReference.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfoInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.AssemblyInfo.cs
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.CoreCompileInputs.cache
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.csproj.CopyComplete
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\refint\ReservationSystemService.dll
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ReservationSystemService.pdb
+C:\Users\woute\OneDrive\Documenten\HBO - Inholland\Leerjaar 1\Periode 3\Programming3\Programming3-Week5\ReservationSystemService\obj\Debug\net6.0\ref\ReservationSystemService.dll
